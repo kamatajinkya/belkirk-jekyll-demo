@@ -1,7 +1,7 @@
 title: Belkirk College of Engineering
 short_title: Belkirk
 description: Jekyll demo for Forestry CMS
-baseurl:
+baseurl: "/belkirk-jekyll-demo"
 permalink: "/:path/"
 defaults:
   - scope:
